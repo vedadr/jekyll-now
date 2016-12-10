@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DAta mining - Introduction
+title: Data mining - Introduction
 ---
 
 Data Mining
